@@ -49,6 +49,10 @@ The repository includes the following key files:
 
 ---
 
+The trained ASR model is available on Hugging Face:  
+👉 [aliyzd95/wav2vec2-large-xlsr-persian-KWS](https://huggingface.co/aliyzd95/wav2vec2-large-xlsr-persian-KWS)
+
+
 ## 📈 Evaluation Metrics
 
 - **ASR Accuracy:** Measured using **Word Error Rate (WER)** via `jiwer`
